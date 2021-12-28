@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JavaScript and TypeScript 
 - 😄 Pronouns: him/his
 
-<div align="center">
+<div style="display: inline_block" align="center">
   <a href="https://github.com/joncavalcanti">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joncavalcanti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joncavalcanti&layout=compact&langs_count=7&theme=dark"/>
