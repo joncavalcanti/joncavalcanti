@@ -34,7 +34,7 @@
   <br/>
      <br/>
 
-<a href="https://github.com/joncavalcanti/github-readme-activity-graph"><img alt="Jonathan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joncavalcanti&bg_color=000000&color=808080&line=006400&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/joncavalcanti/github-readme-activity-graph"><img alt="Jonathan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joncavalcanti&bg_color=000000&color=FFFFFF&line=006400&point=FFFFFF&hide_border=true" /></a>
 
   <br/>
       <br/>
