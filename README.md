@@ -7,8 +7,8 @@
 <a href="https://github.com/joncavalcanti">
   <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=joncavalcanti&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Jon" /></p>
   <p align="center">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=joncavalcanti&show_icons=true&theme=dark" />
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joncavalcanti&theme=dark&layout=compact" />
+    <img height="135em" src="https://github-readme-stats.vercel.app/api?username=joncavalcanti&show_icons=true&theme=dark" />
+    <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joncavalcanti&theme=dark&layout=compact" />
   </p>
 </a>
   
