@@ -4,11 +4,13 @@
 - 🌱 I’m currently learning JavaScript and TypeScript 
 - 😄 Pronouns: him/his
 
-<div align="center">
-  <a href="https://github.com/joncavalcanti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joncavalcanti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joncavalcanti&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<a href="https://github.com/joncavalcanti">
+  <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=joncavalcanti&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Jon" /></p>
+  <p align="center">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=joncavalcanti&show_icons=true&theme=dark" />
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joncavalcanti&theme=dark&layout=compact" />
+  </p>
+</a>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Jonathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
