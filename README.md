@@ -1,4 +1,4 @@
-<p align=center><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&lines=Hi+there!+👋;I'm+Jonathan+!;ou+jon;Prazer+em+conhece-los!;🤙🔥&center=true&size=28"></p>
+<p align=center><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&lines=Hi+there!+👋;I'm+Jonathan+!;or+Jon;Nice+to+meet-you!;🤙🔥&center=true&size=28"></p>
 
 ### Hi there, i'm Jonathan 👋
 
