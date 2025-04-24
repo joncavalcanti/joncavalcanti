@@ -1,8 +1,7 @@
 <p align=center><img src="https://readme-typing-svg.herokuapp.com?color=%2312A940&lines=I'm+Jonathan+;Or+Jon;Nice+to+meet+you!;🤙&center=true&size=28"></p>
 
 
-- 🔭 I have knowledge with C Sharp and C++
-- 🌱 I’m currently learning JavaScript and TypeScript 
+- 🔭 I have knowledge with C Sharp and C++ / JavaScript and TypeScript
 - 😄 Pronouns: him/his
 
 <a href="https://github.com/joncavalcanti">
